@@ -1,0 +1,15 @@
+C:\Guilherme santos\Concessionaria\FrontEnd\bin\Debug\net6.0\FrontEnd.exe
+C:\Guilherme santos\Concessionaria\FrontEnd\bin\Debug\net6.0\FrontEnd.deps.json
+C:\Guilherme santos\Concessionaria\FrontEnd\bin\Debug\net6.0\FrontEnd.runtimeconfig.json
+C:\Guilherme santos\Concessionaria\FrontEnd\bin\Debug\net6.0\FrontEnd.dll
+C:\Guilherme santos\Concessionaria\FrontEnd\bin\Debug\net6.0\FrontEnd.pdb
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.csproj.AssemblyReference.cache
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.AssemblyInfoInputs.cache
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.AssemblyInfo.cs
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.dll
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\refint\FrontEnd.dll
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.pdb
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\FrontEnd.genruntimeconfig.cache
+C:\Guilherme santos\Concessionaria\FrontEnd\obj\Debug\net6.0\ref\FrontEnd.dll
