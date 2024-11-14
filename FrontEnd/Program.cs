@@ -21,5 +21,6 @@ foreach (IVeiculo Veiculo in Veiculos)
     Veiculo.ExibirDetalhes();
     double distancia = 100;
     double DistanciaPercorrida = Veiculo.CalcularConsumo(distancia);
-    Console.WriteLine($"Consumo para 100 km:{DistanciaPercorrida} litros\n");
+    Console.WriteLine($"Distancia: {DistanciaPercorrida}");
+    Console.WriteLine($"Consumo Estimado:{DistanciaPercorrida} litros\n");
 }
