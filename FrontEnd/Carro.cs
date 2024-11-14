@@ -20,17 +20,32 @@ namespace FrontEnd
         public override double CalcularConsumo(double distancia)
         {
             double consumoFinal = base.CalcularConsumo(distancia);
-            if (Tipo == "Híbrido")
-            {
-                consumoFinal *= 0.8;
 
-            }
-            else if (Tipo == "Sedan")
+            switch (Tipo)
             {
-                consumoFinal *= 0.12;
+                case "Híbrido":
+                    consumoFinal *= 0.8;
+                    break;
+                case "Sedan":
+                    consumoFinal *= 0.12;
+                    break;
+                case "Coupe":
+                    consumoFinal *= 0.15;
+                    break;
+                case "Van":
+                    consumoFinal *= 0.18;
+                    break;
+                case "Hatchback":
+                    consumoFinal *= 0.14;
+                    break;
+                default:
+                    consumoFinal *= 1;
+                    break;
             }
+
             return consumoFinal;
         }
+
     }
 
 }
