@@ -4,7 +4,7 @@ Veiculo carro1 = new Carro("Fusca 1969", 1969, 30, 10, "Sedan");
 Veiculo carro2 = new Carro("Chevrolet Opala 1972", 1972, 60, 20, "Sedan");
 Veiculo carro3 = new Carro("Ford Maverick 1974", 1974, 80, 15, "Coupe");
 Veiculo carro4 = new Carro("VW Kombi 1975", 1975, 50, 12, "Van");
-Veiculo carro5 = new Carro("Chevrolet Monza 1986", 1986, 70, 18, "Sedan");
+Veiculo carro5 = new Carro("Volvo C30", 2022, 70, 10, "Hibrido");
 Veiculo carro6 = new Carro("Fiat Uno Mille 1990", 1990, 45, 14, "Hatchback");
 
 Veiculo caminhao1 = new Caminhao("Volvo FH16", 2020, 150, 4, 20);
@@ -15,22 +15,11 @@ Veiculo caminhao5 = new Caminhao("Iveco Stralis", 2017, 110, 8, 23);
 Veiculo caminhao6 = new Caminhao("DAF XF105", 2016, 100, 7, 21);
 
 
-List<IVeiculo> Carros = new List<IVeiculo> { carro1, carro2, carro3, carro4, carro5, carro6  };
-List<IVeiculo> Caminhoes = new List<IVeiculo> { caminhao1, caminhao2, caminhao3, caminhao4, caminhao5, caminhao6 };
-foreach (IVeiculo Carro in Carros)
+List<IVeiculo> Veiculos = new List<IVeiculo> { carro1, carro2, carro3, carro4, carro5, carro6, caminhao1, caminhao2, caminhao3, caminhao4, caminhao5, caminhao6 };
+foreach (IVeiculo Veiculo in Veiculos)
 {
-    Carro.ExibirDetalhes();
+    Veiculo.ExibirDetalhes();
     double distancia = 100;
-    double DistanciaPercorrida = Carro.CalcularConsumo(distancia);
-    Console.WriteLine($"Consumo para 100 km:{DistanciaPercorrida} litros\n");
-}
-
-Console.WriteLine( );
-
-foreach (IVeiculo Caminhao in Caminhoes)
-{
-    Caminhao.ExibirDetalhes();
-    double distancia = 100;
-    double DistanciaPercorrida = Caminhao.CalcularConsumo(distancia);
+    double DistanciaPercorrida = Veiculo.CalcularConsumo(distancia);
     Console.WriteLine($"Consumo para 100 km:{DistanciaPercorrida} litros\n");
 }

@@ -24,7 +24,7 @@ namespace FrontEnd
             switch (Tipo)
             {
                 case "Híbrido":
-                    consumoFinal *= 0.8;
+                    consumoFinal *= 0.08;
                     break;
                 case "Sedan":
                     consumoFinal *= 0.12;
