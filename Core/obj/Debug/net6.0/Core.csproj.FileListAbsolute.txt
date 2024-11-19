@@ -1,0 +1,14 @@
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Core.deps.json
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Core.dll
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Core.pdb
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.dll
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.pdb
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\ref\Core.dll
