@@ -1,4 +1,7 @@
 using Core;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,6 +25,12 @@ builder.Services.AddCors(options =>
                    .AllowAnyHeader();
         });
 });
+
+builder.Services.AddScoped<ICarroService, CarroService>();
+builder.Services.AddScoped<ICarroRepository, CarroRepository>();
+
+builder.Services.AddScoped<ICaminhaoService, CaminhaoService>();
+builder.Services.AddScoped<ICaminhaoRepository, CaminhaoRepository>();
 
 var app = builder.Build();
 

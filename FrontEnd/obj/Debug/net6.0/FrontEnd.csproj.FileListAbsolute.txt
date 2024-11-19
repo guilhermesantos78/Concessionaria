@@ -44,3 +44,6 @@ C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\obj\Debug\net6.0\refin
 C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\obj\Debug\net6.0\FrontEnd.pdb
 C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\obj\Debug\net6.0\FrontEnd.genruntimeconfig.cache
 C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\obj\Debug\net6.0\ref\FrontEnd.dll
+C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Guilherme santos\Concessionaria new\Entidades\FrontEnd\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

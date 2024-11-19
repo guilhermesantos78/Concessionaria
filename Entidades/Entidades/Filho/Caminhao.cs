@@ -1,7 +1,8 @@
-﻿
+﻿using Dapper.Contrib.Extensions;
+
 namespace Entidades
 {
-
+    [Table("Caminhoes")]
     public class Caminhao : Veiculo
     {
         public double CapacidadeCarga { get; set; }

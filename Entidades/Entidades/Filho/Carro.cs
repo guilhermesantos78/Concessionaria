@@ -1,5 +1,8 @@
-﻿namespace Entidades
+﻿using Dapper.Contrib.Extensions;
+
+namespace Entidades
 {
+    [Table("Carros")]
     public class Carro : Veiculo
     {
         public string Tipo { get; set; }

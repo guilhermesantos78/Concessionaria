@@ -12,3 +12,6 @@ C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\refint\Co
 C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.pdb
 C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
 C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Entidades.dll
+C:\Guilherme santos\Concessionaria new\Entidades\Core\bin\Debug\net6.0\Entidades.pdb
+C:\Guilherme santos\Concessionaria new\Entidades\Core\obj\Debug\net6.0\Core.csproj.CopyComplete
