@@ -19,7 +19,6 @@ namespace API.Controllers
             Caminhao caminhaoCreated = caminhao;
             _service.Adicionar(caminhaoCreated);
         }
-        [HttpGet("listar-Caminhao")]
         public List<Caminhao> ListarAluno()
         {
             return _service.Listar();
@@ -34,5 +33,21 @@ namespace API.Controllers
         {
             _service.Remover(id);
         }
+
+        [HttpGet("get-informações-Caminhao")]
+        public List<string> GetDetalhes()
+        {
+            List<Caminhao> listCaminhoes = _service.Listar();
+
+            List<string> detalhesList = new List<string>();
+
+            foreach (Caminhao c in listCaminhoes)
+            {
+                detalhesList.Add(c.ExibirDetalhes());
+            }
+
+            return detalhesList;
+        }
+
     }
 }
