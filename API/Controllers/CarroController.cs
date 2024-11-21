@@ -35,5 +35,19 @@ namespace API.Controllers
             _service.Remover(id);
         }
 
+        [HttpGet("get-informações-Carro")]
+        public List<string> GetDetalhes()
+        {
+            List<Carro> listCarros = _service.Listar();
+
+            List<string> detalhesList = new List<string>();
+
+            foreach (Carro c in listCarros)
+            {
+                detalhesList.Add(c.ExibirDetalhes());
+            }
+
+            return detalhesList;
+        }
     }
 }
