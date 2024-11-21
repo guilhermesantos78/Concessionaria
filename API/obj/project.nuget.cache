@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ibg5xWiJWCMxnFVutSsQYMVH18mwXch7Sv6U+ZF9XCN9B/goANJJJzn2jr9QUGZsHxBdHJGyp7hyCxRUy1y4IQ==",
+  "dgSpecHash": "IuoYn6vYzE0kto7ZLW8pppq3JadGzrbbnf3lfcrXJEahRuGNEH61WTVazKHnAkMqCq2UtDVQ2M9AUXgJmAQNew==",
   "success": true,
-  "projectFilePath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\API\\API.csproj",
+  "projectFilePath": "C:\\Guilherme santos\\Concessionaria\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

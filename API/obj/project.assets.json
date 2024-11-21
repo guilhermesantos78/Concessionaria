@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\API\\API.csproj",
+      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\API\\API.csproj",
+      "projectPath": "C:\\Guilherme santos\\Concessionaria\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\API\\obj\\",
+      "outputPath": "C:\\Guilherme santos\\Concessionaria\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1781,8 +1781,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Core\\Core.csproj": {
-              "projectPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Core\\Core.csproj"
+            "C:\\Guilherme santos\\Concessionaria\\Core\\Core.csproj": {
+              "projectPath": "C:\\Guilherme santos\\Concessionaria\\Core\\Core.csproj"
             }
           }
         }

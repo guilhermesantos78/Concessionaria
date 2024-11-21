@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IpuKCM1GABjmILIY1BPu00oS7aR2OIZVW0D6925+Frlv6O3hRA0nihSDXcz9TvSftcW2Ce5oBMhgvb55RPa9Tg==",
+  "dgSpecHash": "fD4uLiqj5w9IxmJ/9hY1gPH7DsQzK83K+/1wZAvA+H9e6eUw9Jgv0076J0S26D1cThc7KbXdvHKfzAFGvcVbFQ==",
   "success": true,
-  "projectFilePath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Guilherme santos\\Concessionaria\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

@@ -1,4 +1,5 @@
 ﻿using Dapper.Contrib.Extensions;
+using System.Reflection;
 
 namespace Entidades
 {
@@ -7,12 +8,15 @@ namespace Entidades
     {
         public double CapacidadeCarga { get; set; }
 
-        public Caminhao(string modelo, int ano, double capacidadeTanque, double consumoPorKm, double capacidadeCarga)
-            : base(modelo, ano, capacidadeTanque, consumoPorKm)
+        public Caminhao(string modelo, int ano, double capacidadeTanque, double consumoPorKm, double capacidadeCarga, int id)
+            : base(modelo, ano, capacidadeTanque, consumoPorKm, id)
         {
             CapacidadeCarga = capacidadeCarga;
         }
+        public Caminhao()
+        {
 
+        }
         public override string ExibirDetalhes()
         {
             string mensagemDetalhes = base.ExibirDetalhes();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JL6CyD6iySq6QUwvqw5IHX86SJIvFuMJDsbdjxsN1AJKzN/1VNDiWD6eJom7UL5iSkn4Q7gx7J5J7S423+Sx4g==",
+  "dgSpecHash": "BWWat74g14ybXZcUunypXgGs/pu+pZG/b8YdjsuNga9UfGnUfol83TQQQN635ryzalDLZTgpYcDo+5Bl0TG7tg==",
   "success": true,
-  "projectFilePath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Guilherme santos\\Concessionaria\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\Alunos\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

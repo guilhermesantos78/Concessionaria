@@ -7,8 +7,8 @@ namespace Entidades
     {
         public string Tipo { get; set; }
 
-        public Carro(string modelo, int ano, double capacidadeTanque, double consumoPorKm, string tipo)
-            : base(modelo, ano, capacidadeTanque, consumoPorKm)
+        public Carro(string modelo, int ano, double capacidadeTanque, double consumoPorKm, string tipo, int id)
+            : base(modelo, ano, capacidadeTanque, consumoPorKm, id)
         {
             Tipo = tipo;
         }

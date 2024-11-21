@@ -1506,11 +1506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Guilherme santos\\Concessionaria\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\obj\\",
+      "outputPath": "C:\\Guilherme santos\\Concessionaria\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",

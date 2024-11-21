@@ -1528,11 +1528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "C:\\Guilherme santos\\Concessionaria\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\FrontEnd\\FrontEnd.csproj",
+      "projectPath": "C:\\Guilherme santos\\Concessionaria\\FrontEnd\\FrontEnd.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\FrontEnd\\obj\\",
+      "outputPath": "C:\\Guilherme santos\\Concessionaria\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1549,8 +1549,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Guilherme santos\\Concessionaria new\\Entidades\\Entidades\\Entidades.csproj"
+            "C:\\Guilherme santos\\Concessionaria\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Guilherme santos\\Concessionaria\\Entidades\\Entidades.csproj"
             }
           }
         }
